@@ -1,2 +1,6 @@
 # emea-sec-vulns-etl-pipeline-svc
-security / standard / emea
+
+Team: **security**  
+Tier: **standard**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
